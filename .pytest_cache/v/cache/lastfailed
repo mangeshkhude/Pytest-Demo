@@ -1,0 +1,7 @@
+{
+  "FirstTest.py::test_answer": true,
+  "test_assert2.py::test_set_comparison": true,
+  "test_foocompare.py::test_compare": true,
+  "test_smtpsimple.py::test_ehlo": true,
+  "test_tmpdir.py::test_needsfiles": true
+}
